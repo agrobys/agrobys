@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @agrobys
 - 👀 I’m interested in Networking, Cloud, and Data Center Technologies
-- 🌱 I’m currently learning how to use OpenShift and containers in general to drive network automation
-- 💞️ I’m looking to collaborate on network automation projects!
+- 🌱 I’m currently learning how to admin Kubernetes, as well as how to use GitOps / Pipelining to achieve Closed Loop Automation
+- 💞️ I’m looking to collaborate on network automation projects or Rust-based projects😉
 - 📫 How to reach me: agrobys@cisco.com or LinkedIn @Aline Grobys
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied in Shanghai and my favorite place in the city is the mall with all the bubble tea places :)
+- ⚡ Fun fact: I studied in Shanghai and my favorite place in the city is any mall with bubble tea places :)
 
 <!---
 agrobys/agrobys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
